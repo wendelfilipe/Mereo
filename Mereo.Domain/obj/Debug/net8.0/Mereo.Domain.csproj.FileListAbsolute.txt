@@ -1,0 +1,11 @@
+C:\Users\wendelfilipe\Documents\Mereo\Mereo.Domain\bin\Debug\net8.0\Mereo.Domain.deps.json
+C:\Users\wendelfilipe\Documents\Mereo\Mereo.Domain\bin\Debug\net8.0\Mereo.Domain.dll
+C:\Users\wendelfilipe\Documents\Mereo\Mereo.Domain\bin\Debug\net8.0\Mereo.Domain.pdb
+C:\Users\wendelfilipe\Documents\Mereo\Mereo.Domain\obj\Debug\net8.0\Mereo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wendelfilipe\Documents\Mereo\Mereo.Domain\obj\Debug\net8.0\Mereo.Domain.AssemblyInfoInputs.cache
+C:\Users\wendelfilipe\Documents\Mereo\Mereo.Domain\obj\Debug\net8.0\Mereo.Domain.AssemblyInfo.cs
+C:\Users\wendelfilipe\Documents\Mereo\Mereo.Domain\obj\Debug\net8.0\Mereo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\wendelfilipe\Documents\Mereo\Mereo.Domain\obj\Debug\net8.0\Mereo.Domain.dll
+C:\Users\wendelfilipe\Documents\Mereo\Mereo.Domain\obj\Debug\net8.0\refint\Mereo.Domain.dll
+C:\Users\wendelfilipe\Documents\Mereo\Mereo.Domain\obj\Debug\net8.0\Mereo.Domain.pdb
+C:\Users\wendelfilipe\Documents\Mereo\Mereo.Domain\obj\Debug\net8.0\ref\Mereo.Domain.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mereo.WebUI.props" />
+</Project>

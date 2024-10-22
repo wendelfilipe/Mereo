@@ -1,0 +1,22 @@
+.button {
+    background-color: rgba(55, 147, 228);
+    padding: 1rem;
+    border-radius: 5px;
+    opacity: .8;
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+}
+
+.button:hover {
+    opacity: 1;
+}
+
+.text-center h1 {
+    margin-bottom: 2rem;
+}
+
+.google {
+    margin-top: 2rem;
+    padding: 1rem;
+}

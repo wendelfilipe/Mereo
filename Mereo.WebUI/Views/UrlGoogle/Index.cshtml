@@ -1,0 +1,19 @@
+@model Mereo.Domain.Entity.UrlGoogle;
+<link rel="stylesheet" href="~/css/index.css">
+
+@{
+    ViewData["Title"] = "Url Google";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Link do Google</h1>
+    <p><a class="button" href="@Model.URL">Google</a></p>
+    @if (Model.TituloValido == true)
+    {
+        <p class="google">O Titulo é Igual a Google</p>
+    }
+    else
+    {
+        <p class="google">O Titulo não é igual a Google</p>
+    }
+</div>
